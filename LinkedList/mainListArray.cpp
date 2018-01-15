@@ -1,5 +1,5 @@
 #include <iostream>
-#include "listMang.h"
+#include "listArray.h"
 using namespace std;
 int main(){
 	list ds;
